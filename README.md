@@ -1,4 +1,9 @@
 # libUbercommand.sh
+
+> :warning: **This project is now retired.  I recommend you use the amazing [just](https://github.com/casey/just) tool instead.**
+>
+> For more details about project retirement, please see [RETIREMENT.md](RETIREMENT.md).
+
 A bash tool similar to Slack's [magic-cli](https://github.com/slackhq/magic-cli) : A foundation for building your own suite of command line tools.
 
 libUbercommand.sh exists to make it easy to create a set of tools that work together. It's not a tool you use as-is; it's here to offer a starting point for your own custom command line tools.
